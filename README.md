@@ -1,5 +1,5 @@
 # GoogleMapsAutomation
-A simple python script that automates google maps
+A simple python script that automates google maps [WINDOWS ONLY]
 
 To run this Script You must have the requirements installed.Install them by simply running the following command in your command line :
 
